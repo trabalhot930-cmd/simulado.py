@@ -1,0 +1,1 @@
+streamlit run simulado_security_plus.py
